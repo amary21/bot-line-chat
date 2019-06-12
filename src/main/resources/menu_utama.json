@@ -1,0 +1,27 @@
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "message",
+        "label": "Harga Pasar",
+        "text": "Harga Pasar"
+      },
+      {
+        "type": "message",
+        "label": "Laporan sekitar",
+        "text": "Laporan sekitar"
+      },
+      {
+        "type": "message",
+        "label": "Solusi penyakit padi",
+        "text": "Solusi penyakit padi"
+      }
+    ],
+    "thumbnailImageUrl": "http://buysellgraphic.com/images/graphic_preview/large/asian_farmers_drawing_design_with_rice_field_27220.jpg",
+    "title": "Menu Utama",
+    "text": "Silahkan pilih menu yang ingin anda cari"
+  }
+}
